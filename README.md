@@ -3,8 +3,7 @@
 - 🌱 [I’m_Currently_learning_on_QA_Course_by_Vadim_Ksenzov.]
 - 🗺️ [I_explore_tools:_DevTools,_PostgeSQL,_GitBash,_Charles,_Fiddler,_Android_Studio,_Postman,_Python.]
 - 💞️ [I’m_looking_for_new_opportunities.]
-- 📫 [You_can_reach_me_@ Telegram | E-mail | LinkedIn |
-
+- 📫 [You_can_reach_me_@ Telegram | E-mail | LinkedIn ]
 
 
 <!---
